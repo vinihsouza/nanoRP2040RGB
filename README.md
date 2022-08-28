@@ -4,5 +4,4 @@ Criando um WebServer com o Arduino nano RP2040 Connect e utilizando seu RGB e se
 
 Adicionar as seguintes bibliotecas em seu projeto:
 
-WiFiNINA
-Arduino_LSM6DSOX
+WiFiNINA e Arduino_LSM6DSOX
